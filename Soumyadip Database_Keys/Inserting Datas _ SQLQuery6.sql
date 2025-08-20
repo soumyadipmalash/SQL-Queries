@@ -77,7 +77,7 @@
 --insert into crssection values('1208','CIS253','21','SP03','123','TR','09:00','10:30','14','40');
 --insert into crssection values('1209','CIS253','11','SP03','111','MW','09:00','10:30','18','40');
 --insert into crssection values('1210','CIS253','31','SP03','123','F','TBA','TBA','19','2');
---select * from crssection;
+select * from crssection;
 
 
 --insert into stud values('00100', 'Diaz', 'Jose', '1 Ford Avenue #7', 'Hill', 'NJ', '08863', 'WN03', '12-FEB-1983', '123', '100', '9735551111');
